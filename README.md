@@ -1,5 +1,7 @@
 # RAG-SEC: RAG & AI Security Handbook
-
+![Status](https://img.shields.io/badge/status-active-brightgreen)
+![Security](https://img.shields.io/badge/focus-AI%20Security-blue)
+![License](https://img.shields.io/badge/license-educational-lightgrey)
 A complete, beginner-friendly yet professional documentation focused on understanding **Retrieval-Augmented Generation (RAG)** vulnerabilities, **AI system vulnerabilities**, their differences, and safe red‑team simulations.
 
 This guide is written for educational, ethical, and defensive research purposes.
@@ -376,15 +378,6 @@ This connects vulnerabilities to familiar security categories.
 
 ---
 
-# 🧰 14. Professional Enhancements
-
-Add these badges in your GitHub repo for a polished look:
-
-```
-![Status](https://img.shields.io/badge/status-active-brightgreen)
-![Security](https://img.shields.io/badge/focus-AI%20Security-blue)
-![License](https://img.shields.io/badge/license-educational-lightgrey)
-```
 
 You can also add a banner later inside `/diagrams/banner.png`.
 
