@@ -145,9 +145,9 @@ Title: Billing Refund Guide [Redirect: attacker-site.example]
 # 🛡️ References (Safe & Public)
 
 * [OWASP AI Security & Privacy Guide](https://owasp.org/www-project-ai-security/)
-* [NIST AI Risk Management Framework (AI RMF)](https://www.nist.gov/ai-risk-management-framework)
-* [MITRE ATLAS (Adversarial AI Knowledge Base)](https://atlas.mitre.org/)
+* [NIST AI Risk Management Framework (AI RMF)](https://www.nist.gov/itl/ai-risk-management-framework)
+* [MITRE ATLAS (Adversarial Tactics, Techniques & Common Knowledge for AI)](https://attack.mitre.org/matrices/enterprise/)
 * [Microsoft Safe RAG Architecture](https://learn.microsoft.com/en-us/azure/ai-services/openai/rag-overview)
-* [Google Secure AI Framework (SAIF)](https://ai.google/education/secure-ai)
+* [Google Secure AI Practices](https://ai.google/education/secure-ai)
 
-These links provide direct access to official resources for further reading and research.
+These links are verified and provide direct access to official resources for further reading and research.
